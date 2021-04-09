@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+ ```js
+ const julioCesar97 = {
+  pronouns: "he" | "him",
+  code: [JavaSacript, HTML, CSS],
+  tools: [React, ContextAPI, Nodejs, Nextjs, Angular, MongoDB]
+ }
+```
 <!--
 **JulioCesar97/JulioCesar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
